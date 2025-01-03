@@ -11,4 +11,4 @@ The program works as follows:
 - 4 space-separated integers: R G B k.
 
 ## Output:
-Predicted pH.
+Detected pH.
